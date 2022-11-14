@@ -3,7 +3,7 @@
 I am Tarik. I am a software engineer, and here some info about me
 - 📚 Graduate student at Faculty of Electrical Engineering, Software engineering
 - 👀 I’m interested in full stack web development
-- 💞️ I’m looking to collaborate on nothing... You can contact me for collaboration though!
+
 #### 📫 How to reach me
 - LinkedIn: [`Profile link`](https://www.linkedin.com/in/mr-horozovic/)
 - Email: [`Click To Mail!`](mailto:tarik.horoz@gmail.com) or copy **`tarik.horoz@gmail.com`**
@@ -20,7 +20,12 @@ I am Tarik. I am a software engineer, and here some info about me
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/nodejs.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width="200"></td>
+      <td><img src="https://styles.redditmedia.com/t5_2qh6x/styles/communityIcon_xgorujtjrj571.png?width=256&s=12f60b3bcbd6ac2aea90e277b1ff327f91523032" width="200"></td>
       <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true" width="200"></td>
       <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67" width="200"></td>
       <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
