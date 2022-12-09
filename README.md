@@ -38,10 +38,10 @@ I am Tarik. I am a software engineer, and here some info about me
 </table>
 
 ## GitHub Statistics
-[![Tariks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herr-Hauptmannan&show_icons=true&theme=radical)](https://github.com/Herr-Hauptmann)
+[![Tariks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herr-Hauptmann&show_icons=true&theme=radical)](https://github.com/Herr-Hauptmann)
 <br>
 <a href="https://github.com/Herr-Hauptmann?tab=overview">
-[![Tarik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Hauptmann&langs_count=8&theme=radical)](https://github.com/Herr-Hauptmann)
+[![Tarik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Hauptmann&langs_count=8&theme=radical&show_icons=true)](https://github.com/Herr-Hauptmann)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Hauptmann&theme=radical" alt="More Tarik Stats" /></p>
 </a>
 
