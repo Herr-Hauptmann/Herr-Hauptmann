@@ -38,7 +38,7 @@ I am Tarik. I am a software engineer, and here some info about me
 </table>
 
 ## GitHub Statistics
-[![Tariks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herr-Hauptmann)](https://github.com/Herr-Hauptmann)
+[![Tariks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herr-Hauptmanna&count_private=true&show_icons=true&theme=radical)](https://github.com/Herr-Hauptmann)
 <br>
 <a href="https://github.com/Herr-Hauptmann?tab=overview">
 <img align="center" alt="Tarik's most used languages" src="https://github-readme-stats-git-master-herr-hauptmann.vercel.app/api/top-langs/?username=Herr-Hauptmann&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
